@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<stdlib.h>
 
 // initialization 
 void initializeArray(int arr[], int size) {
